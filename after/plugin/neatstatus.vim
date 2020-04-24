@@ -22,7 +22,7 @@ if !exists('g:NeatStatusLine_color_normal')   | let g:NeatStatusLine_color_norma
 " White on Red
 if !exists('g:NeatStatusLine_color_insert')   | let g:NeatStatusLine_color_insert   = 'ctermfg=15 ctermbg=3 cterm=bold'   | endif
 " Yellow on Blue
-if !exists('g:NeatStatusLine_color_replace')  | let g:NeatStatusLine_color_replace  = 'ctermfg=190 ctermbg=67 cterm=bold' | endif
+if !exists('g:NeatStatusLine_color_replace')  | let g:NeatStatusLine_color_replace  = 'ctermfg=190 ctermbg=69 cterm=bold' | endif
 " White on Purple
 if !exists('g:NeatStatusLine_color_visual')   | let g:NeatStatusLine_color_visual   = 'ctermbg=3 cterm=NONE'             | endif
 " White on Black
